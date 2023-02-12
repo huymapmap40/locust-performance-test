@@ -1,0 +1,24 @@
+tasksRoot: "tasksall/ata"
+
+master:
+  config:
+    target-host: http://shoppingtrip-service.staging-ph.svc.cluster.local
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 1500Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: '/locust-tasks/test_shoppingtrip-service.py'
+  replicaCount: 80
+  resources:
+    limits:
+      cpu: 1200m
+      memory: 1280Mi
+    requests:
+      cpu: 600m
+      memory: 680Mi

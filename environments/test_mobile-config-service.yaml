@@ -1,0 +1,27 @@
+tasksRoot: "tasks/mobile-config-service"
+master:
+  config:
+    target-host: http://mobile-config-service
+worker:
+  config:
+    locust-script: "/locust-tasks/test_mobile-config-service.py"
+  replicaCount: 100
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi
+  # hpa:
+  #   minReplicas: 3
+  #   maxReplicas: 10
+  #   metrics:
+  #     - type: Resource
+  #       resource:
+  #         name: cpu
+  #         targetAverageUtilization: 70
+  #     - type: Resource
+  #       resource:
+  #         name: memory
+  #         targetAverageUtilization: 70

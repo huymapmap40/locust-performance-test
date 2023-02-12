@@ -1,0 +1,23 @@
+master:
+  config:
+    target-host: http://ingress-skipper-svc.staging-sg
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/wes-homepage-svc.py"
+  replicaCount: 50
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi
+

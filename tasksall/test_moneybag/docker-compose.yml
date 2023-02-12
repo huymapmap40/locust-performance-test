@@ -1,0 +1,30 @@
+version: "3.4"
+
+x-common: &common
+  image: grubykarol/locust:latest
+  environment: &common-env
+    ATTACKED_HOST: http://1.50.46.8:80
+    LOCUST_FILE: /scripts/test_moneybag.py
+  volumes:
+    - ./:/scripts
+  ulimits:
+    nproc: 65535
+    nofile:
+      soft: 20000
+      hard: 40000
+
+services:
+  locust-master:
+    <<: *common
+    ports:
+      - 8089:8089
+    environment:
+      <<: *common-env
+      LOCUST_MODE: master
+  
+  locust-slave:
+    <<: *common
+    environment:
+      <<: *common-env
+      LOCUST_MODE: slave
+      LOCUST_MASTER: locust-master

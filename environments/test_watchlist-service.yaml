@@ -1,0 +1,23 @@
+master:
+  config:
+    target-host: http://watchlist-service.sb-dep-dev-team-watchlist.svc.cluster.local
+worker:
+  config:
+    locust-script: '/locust-tasks/test_watchlist-service.py'
+  replicaCount: 15
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 512Mi
+    requests:
+      cpu: 1000m
+      memory: 512Mi
+
+initContainers:
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 512Mi
+    requests:
+      cpu: 1000m
+      memory: 512Mi

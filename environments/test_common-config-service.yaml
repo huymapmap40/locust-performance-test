@@ -1,0 +1,22 @@
+master:
+  config:
+    target-host: http://common-config-service
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_common-config-service.py"
+  replicaCount: 60
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 500m
+      memory: 512Mi

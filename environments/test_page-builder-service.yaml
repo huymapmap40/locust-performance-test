@@ -1,0 +1,23 @@
+tasksRoot: "tasks/page-builder-service"
+master:
+  config:
+    target-host: http://page-builder-service.staging-sg.svc.cluster.local
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_page-builder-service.py"
+  replicaCount: 60
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 500m
+      memory: 512Mi

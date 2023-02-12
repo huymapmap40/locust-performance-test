@@ -1,0 +1,23 @@
+tasksRoot: "tasks/orca"
+master:
+  config:
+    target-host: http://orca-search-service.staging-tw.svc.cluster.local
+worker:
+  config:
+    locust-script: "/locust-tasks/test_orca-search-service-auto-complete.py"
+  replicaCount: 10
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi

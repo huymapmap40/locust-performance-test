@@ -1,0 +1,5684 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 9581,
+            "name": "ShopAt24",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9581/d95a0d10-c486-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "shopat2408-16",
+            "categories": [
+                3,
+                7,
+                2,
+                6,
+                11,
+                8,
+                9,
+                10,
+                5,
+                1
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|link\\.)shopat24\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9499,
+            "name": "Lazada",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9499/8d45be30-d050-11e9-abf2-bd49a3c92b7a.png",
+            "shortname": "lazadatest",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                76,
+                83,
+                77,
+                81,
+                78,
+                5,
+                24,
+                27,
+                25,
+                26,
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55,
+                6,
+                32,
+                31,
+                33,
+                34,
+                30,
+                35,
+                29,
+                28,
+                2,
+                17,
+                16,
+                1,
+                15,
+                13,
+                14,
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47,
+                3,
+                18,
+                19,
+                20,
+                21,
+                4,
+                22,
+                23,
+                9,
+                61,
+                69,
+                68,
+                62,
+                66,
+                64,
+                60,
+                65,
+                67,
+                63,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*lazada\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 2.5% เมื่อช้อปผ่านเว็บ",
+            "previewText": "< 2.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.5",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 2.5%"
+            },
+            "isSpecialStore": true,
+            "isSearchable": true
+        },
+        {
+            "id": 9582,
+            "name": "Expedia",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9582/60401ab0-cee4-11e9-a964-c9823bb3c5b5.jpeg",
+            "shortname": "expedia1",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.expedia\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "< 6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9583,
+            "name": "Central",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9583/2cfbac30-cebe-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "central09-09",
+            "categories": [
+                11,
+                5,
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55,
+                2,
+                1,
+                7,
+                40,
+                41,
+                36,
+                45,
+                43,
+                46,
+                39,
+                42,
+                47,
+                3,
+                4,
+                22,
+                23,
+                9,
+                10,
+                73
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|store\\.)central\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9584,
+            "name": "Sephora",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9584/86bad230-c2f4-11e9-85d1-bfe2bc287222.png",
+            "shortname": "sephora",
+            "categories": [
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.sephora\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9585,
+            "name": "Nstore",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9585/8de9ebd0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "nstore",
+            "categories": [
+                2,
+                3,
+                4,
+                6,
+                7,
+                8,
+                11,
+                12,
+                9,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74,
+                5,
+                1
+            ],
+            "urlPattern": "([\\w\\d]+\\.)?(nstore\\.net).*$",
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "< 8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9586,
+            "name": "se-ed",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9586/5170ef70-c960-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "se-ed",
+            "categories": [
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.se-ed\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9588,
+            "name": "Pomelo Fashion",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9588/8ddeef50-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "pomelo-fashion",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*pomelofashion\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 5.0%",
+            "previewText": "<5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9589,
+            "name": "Beauticool",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9589/8dd9bf30-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "beauticool",
+            "categories": [
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(beauticool\\.com).*$",
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9471,
+            "name": "Hotels.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9471/070ed6d0-bda4-11e9-82ee-b39c251e7da6.jpeg",
+            "shortname": "hotels-com",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)hotels\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9590,
+            "name": "ASOS",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9590/f9aba710-c335-11e9-85d1-bfe2bc287222.png",
+            "shortname": "asos08-16",
+            "categories": [
+                1,
+                15,
+                13,
+                14,
+                4,
+                22,
+                23,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*asos\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9472,
+            "name": "Booking.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9472/35629870-c3e2-11e9-85d1-bfe2bc287222.png",
+            "shortname": "booking-com",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|secure\\.)booking\\.com\/?",
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9591,
+            "name": "ebay",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9591/8dd15ac0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ebay",
+            "categories": [
+                5,
+                1,
+                3,
+                18,
+                19,
+                20,
+                9,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*ebay\\.com\/?",
+            "displayText": "รับเงินคืน 0.5%",
+            "previewText": "0.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "0.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9594,
+            "name": "AIS Online Store",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9594/05116e00-d43e-11e9-88c2-fd6686586716.png",
+            "shortname": "ais-online",
+            "categories": [
+                3,
+                18,
+                19,
+                20,
+                21,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|store\\.)ais\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 2.0%",
+            "previewText": "< 2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9596,
+            "name": "AsiaDirect",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9596/70c21510-d2b2-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "asiadirect",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88,
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.asiadirect\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 120 บาท",
+            "previewText": "120 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "120",
+                "modifier": "=",
+                "sign": "$",
+                "description": "120 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9597,
+            "name": "Naiin Books",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9597/3dd80000-c340-11e9-85d1-bfe2bc287222.png",
+            "shortname": "naiin-books",
+            "categories": [
+                8,
+                10,
+                73,
+                75,
+                70,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.naiin\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 2.5%",
+            "previewText": "< 2.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.5",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 2.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9599,
+            "name": "IN2IT Cosmetics",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9599/8db85480-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "in2it-cosmetics",
+            "categories": [
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.in2itcosmetics\\.com\/?",
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9604,
+            "name": "Morinagahealth.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9604/8d97fb40-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "morinagahealth-com",
+            "categories": [
+                7,
+                46,
+                11
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.morinagahealth\\.com\/?",
+            "displayText": "เครดิตเงินคืน 8.0%",
+            "previewText": "8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9605,
+            "name": "Doonee",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9605/6f4b87a0-cad0-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "doonee",
+            "categories": [
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.doonee\\.com\/?",
+            "displayText": "รับเงินคืน 11%",
+            "previewText": "11.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "11.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "11.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9473,
+            "name": "AliExpress",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9473/6f96e8e1-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "aliexpresstest",
+            "categories": [
+                11,
+                8,
+                2,
+                17,
+                16,
+                1,
+                15,
+                13,
+                14,
+                7,
+                3,
+                4,
+                22,
+                23,
+                9,
+                61,
+                69,
+                68,
+                62,
+                66,
+                64,
+                60,
+                65,
+                67,
+                63,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(?:http|https):[\/\/]{2})(?:www\\.|login\\.|trade\\.|shoppingcart\\.|sale\\.|message\\.|feedback\\.|home\\.|msg\\.|passport\\.|tmall\\.|best\\.|flashdeals\\.|coupon\\.|click\\.|star\\.|activities\\.|brands\\.|bestselling\\.|trade1\\.)aliexpress\\.com(\/)?",
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "< 7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9607,
+            "name": "Althea",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9607/04a562f0-c36d-11e9-85d1-bfe2bc287222.png",
+            "shortname": "althea-test",
+            "categories": [
+                7
+            ],
+            "urlPattern": "([\\w\\d]+\\.)?(th\\.althea\\.kr).*$",
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "< 7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9608,
+            "name": "Book Depository",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9608/8d8ed380-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "book-depository",
+            "categories": [
+                8,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*bookdepository\\.com\/?",
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9609,
+            "name": "AccorHotels.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9609/5659b8c0-d2cd-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "accorhotels-com",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88,
+                2,
+                17,
+                16,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(accorhotels\\.com).*$",
+            "displayText": "รับเงินคืนสูงสุด 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9612,
+            "name": "Shopbop",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9612/8d78b370-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "shopbop",
+            "categories": [
+                4
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.shopbop\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9614,
+            "name": "Emirates",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9614/8d77c910-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "emirates",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                76,
+                83,
+                77,
+                81,
+                78,
+                5,
+                24,
+                27,
+                25,
+                26,
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88,
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55,
+                6,
+                32,
+                31,
+                33,
+                34,
+                30,
+                35,
+                29,
+                28,
+                2,
+                17,
+                16,
+                1,
+                15,
+                13,
+                14,
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47,
+                3,
+                18,
+                19,
+                20,
+                21,
+                4,
+                22,
+                23,
+                9,
+                61,
+                69,
+                68,
+                62,
+                66,
+                64,
+                60,
+                65,
+                67,
+                63,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*emirates\\.com\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9615,
+            "name": "StrawberryNET",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9615/8d755810-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "strawberrynet-com",
+            "categories": [
+                7
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|secure2\\.)strawberrynet\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9616,
+            "name": "Under Armour",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9616/8d74e2e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "under-armour",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.underarmour\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9617,
+            "name": "Jetstar",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9617/8d704f00-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "jetstar",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0.5%",
+            "previewText": "0.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "0.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9618,
+            "name": "Daniel Wellington",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9618/ffa12e10-c984-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "daniel-wellington",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.danielwellington\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9619,
+            "name": "Yoox",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9619/8d6a3480-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "yoox-com",
+            "categories": [
+                4,
+                22,
+                23,
+                11,
+                82,
+                80,
+                79
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9620,
+            "name": "ZEN Rooms",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9620/8d646820-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "zen-rooms",
+            "categories": [
+                12,
+                88
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9622,
+            "name": "Melissa Shoes",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9622/8d5e9bc0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "melissa-shoes",
+            "categories": [
+                4
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9623,
+            "name": "Old Navy",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9623/8d5aa420-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "old-navy",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:oldnavy\\.|secure-oldnavy\\.)gap\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9624,
+            "name": "Nike",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9624/aafce640-c8b4-11e9-85d1-bfe2bc287222.png",
+            "shortname": "nike",
+            "categories": [
+                4,
+                22,
+                23,
+                11,
+                82,
+                80,
+                79
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(nike\\.com).*$",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9626,
+            "name": "American Eagle Outfitters",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9626/d6a40590-cf8e-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "american-eagle-outfitters",
+            "categories": [
+                4,
+                22,
+                23,
+                11,
+                82,
+                80,
+                79,
+                76,
+                78
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.ae\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9627,
+            "name": "Urban Outfitters",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9627/8d532a10-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "urban-outfitters",
+            "categories": [
+                4,
+                22,
+                23,
+                11,
+                82,
+                80,
+                79,
+                76
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.urbanoutfitters\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9630,
+            "name": "TARAD.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9630/8d403e50-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "tarad-com",
+            "categories": [
+                3,
+                18,
+                19,
+                20,
+                21,
+                4,
+                22,
+                23,
+                6,
+                32,
+                31,
+                33,
+                34,
+                30,
+                35,
+                29,
+                28,
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47,
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55,
+                11,
+                82,
+                80,
+                79,
+                76,
+                83,
+                77,
+                81,
+                78,
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88,
+                9,
+                61,
+                69,
+                68,
+                62,
+                66,
+                64,
+                60,
+                65,
+                67,
+                63,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74,
+                5,
+                24,
+                27,
+                25,
+                26,
+                1,
+                15,
+                13,
+                14
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(tarad\\.com).*$",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9631,
+            "name": "Italthai Cellar",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9631/628c62a0-c968-11e9-85d1-bfe2bc287222.png",
+            "shortname": "italthai-cellar",
+            "categories": [
+                2,
+                6
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})italthaicellar\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9632,
+            "name": "Karmart",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9632/8d3df460-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "karmart",
+            "categories": [
+                7
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})dev\\.karmarts\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 7.0%",
+            "previewText": "7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9633,
+            "name": "Reebonz",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9633/8d38c440-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "reebonz",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.reebonz\\.com\/th\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9634,
+            "name": "Bus Online Ticket",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9634/8d378bc0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "busonlineticket",
+            "categories": [
+                12,
+                92,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*busonlineticket\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9637,
+            "name": "Hotels2Thailand",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9637/8d2b2fb0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "hotels2thailand",
+            "categories": [
+                12,
+                87,
+                93,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.hotels2thailand\\.com\/?",
+            "displayText": "รับเงินคืน1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9638,
+            "name": "Jetradar",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9638/8d2933e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "jetradar",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|search\\.)jetradar\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9639,
+            "name": "Greenman Gaming",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9639/8d28beb0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "greenman-gaming",
+            "categories": [
+                3,
+                9,
+                61
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(greenmangaming\\.com).*$",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9640,
+            "name": "Malaysia Airlines",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9640/8d2897a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "malaysia-airlines",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|fly\\.)malaysiaairlines\\.com(\/th\/th.html)?\/?",
+            "displayText": "รับเงินคืน 1.5%",
+            "previewText": "1.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9642,
+            "name": "SSENSE",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9642/8d216bb0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ssense",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*ssense\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9643,
+            "name": "Stylebop",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9643/8d1c62a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "stylebop",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.stylebop\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9644,
+            "name": "Intercontinental Hotels Group",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9644/8d19a380-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ihg",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|login\\.|meetings\\.)ihg\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9645,
+            "name": "Etihad Airways",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9645/8d1780a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "etihad",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|booking\\.|flights\\.|book\\.)etihad\\.com\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9646,
+            "name": "Stubhub",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9646/8d1536b0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "stubhub",
+            "categories": [
+                10,
+                75,
+                5,
+                27
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9648,
+            "name": "Airasiago",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9648/8d099df0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "airasiago",
+            "categories": [
+                12
+            ],
+            "urlPattern": "([\\w\\d]+\\.)?(thailand\\.airasiago\\.com).*$",
+            "displayText": "รับเงินคืน 1 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9649,
+            "name": "Microsoft store",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9649/8d07c931-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "microsoft-store",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.microsoft\\.com\/th-th\/?",
+            "displayText": "รับเงินคืนสูงสุด 4.0%",
+            "previewText": "< 4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9651,
+            "name": "Luisaviaroma",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9651/8d06b7c0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "luisaviaroma",
+            "categories": [
+                2,
+                17,
+                16,
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.luisaviaroma\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9652,
+            "name": "Godaddy",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9652/8d055830-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "godaddy",
+            "categories": [
+                5,
+                27
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})th\\.godaddy\\.com\/?",
+            "displayText": "รับเงินคืน 10.0%",
+            "previewText": "10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9653,
+            "name": "Forever 21",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9653/8cfd68f0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "forever-21",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.forever21\\.com\/?",
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9654,
+            "name": "Brooks Brothers",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9654/8cf79c90-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "brooks-brothers08-26",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.brooksbrothers\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9655,
+            "name": "Nine West",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9655/8cf6b230-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "nine-west",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.ninewest\\.com\/?",
+            "displayText": "รับเงินคืน 2.5%",
+            "previewText": "2.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9656,
+            "name": "Gearbest",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9656/8cf133f0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "gearbest",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*gearbest\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 0.8%",
+            "previewText": "< 0.8%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.8",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 0.8%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9657,
+            "name": "Air France",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9657/8ceeea00-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "air-france",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                85,
+                87,
+                93,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*airfrance\\.us\/?",
+            "displayText": "รับเงินคืน 0.7%",
+            "previewText": "0.7%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.7",
+                "modifier": "=",
+                "sign": "%",
+                "description": "0.7%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9658,
+            "name": "Manchester United Store",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9658/fd131030-c873-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "manchester-united-store",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                76
+            ],
+            "urlPattern": "([\\w\\d]+\\.)?(store\\.manutd\\.com).*$",
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9659,
+            "name": "Gap",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9659/8cec2ae0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "gap",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|secure-www\\.)gap\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9660,
+            "name": "Sears",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9660/131da2f0-c8a1-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "sears",
+            "categories": [
+                3,
+                7,
+                4,
+                8,
+                9,
+                10,
+                5,
+                1
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.sears\\.com\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9662,
+            "name": "Banana Republic",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9662/8ce28df0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "banana-republic",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:bananarepublic\\.|secure-bananarepublic\\.)gap\\.com\/?",
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9666,
+            "name": "Amiclubwear",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9666/8cd4ab40-b364-11e9-acd9-972b3f3d0ef2.jpeg",
+            "shortname": "amiclubwear",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(amiclubwear\\.com).*$",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9671,
+            "name": "ROMWE",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9671/a98a52a0-cf87-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "romwe",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.romwe\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9672,
+            "name": "Ted Baker",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9672/8cc3bb50-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ted-baker",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.tedbaker\\.com\/?",
+            "displayText": "รับเงินคืน 1.1%",
+            "previewText": "1.1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9673,
+            "name": "Virgin Atlantic",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9673/8cbf4e80-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "virgin-atlantic",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|travelplus\\.)virginatlantic\\.com\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9674,
+            "name": "Bloomingdales",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9674/8cbed950-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "bloomingdales",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 1.5%",
+            "previewText": "1.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9675,
+            "name": "Ann Taylor",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9675/8cbc4140-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ann-taylor",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.anntaylor\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9677,
+            "name": "Saks Fifth Avenue",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9677/8cbb08c0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "saksfifthavenue",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}) www\\.saksfifthavenue\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9679,
+            "name": "HomeAway",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9679/8cba4570-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "homeaway",
+            "categories": [
+                12,
+                88
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(homeaway\\.com\\.sg).*$",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9680,
+            "name": "Zilingo",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9680/8cb78650-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "zilingo",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*zilingo\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 6.0%",
+            "previewText": "< 6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9686,
+            "name": "BigC",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9686/8ca0a2f1-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "bigc",
+            "categories": [
+                6,
+                32,
+                31,
+                33,
+                34,
+                30,
+                35,
+                29,
+                28
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.)?bigc(\\.co\\.th|ard\\.bigc\\.co\\.th)\/?",
+            "displayText": "รับเงินคืนสูงสุด 2.0%",
+            "previewText": "< 2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9687,
+            "name": "Orami",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9687/8ca0a2f0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "orami",
+            "categories": [
+                7,
+                6,
+                8,
+                9,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9688,
+            "name": "Bonds",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9688/8ca006b0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "bonds",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(bonds\\.com\\.au).*$",
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9690,
+            "name": "Sasa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9690/8c94bc10-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "sasa",
+            "categories": [
+                7
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0.8%",
+            "previewText": "0.8%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.8",
+                "modifier": "=",
+                "sign": "%",
+                "description": "0.8%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9691,
+            "name": "Photobook Worldwide",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9691/8c8cf3e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "photobook-worldwide",
+            "categories": [
+                10,
+                73
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*photobookthailand\\.com\/?",
+            "displayText": "รับเงินคืน 10.0%",
+            "previewText": "10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9692,
+            "name": "Art.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9692/5c26ad70-d2ab-11e9-abf2-bd49a3c92b7a.png",
+            "shortname": "art-com",
+            "categories": [
+                8,
+                10,
+                73,
+                72,
+                75,
+                70,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.art\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9693,
+            "name": "Backcountry",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9693/c10e38a0-ca06-11e9-85d1-bfe2bc287222.png",
+            "shortname": "backcountry",
+            "categories": [
+                4,
+                22,
+                23,
+                11
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.backcountry\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9694,
+            "name": "Beauty Bridge",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9694/8c8a82e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "beauty-bridge",
+            "categories": [
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9695,
+            "name": "Cosme-De.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9695/8c88ae20-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "cosme-de-com",
+            "categories": [
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*cosme-de\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9696,
+            "name": "Aiseesoft",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9696/8c8838f0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "aiseesoft",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*aiseesoft\\.com\/?",
+            "displayText": "รับเงินคืน 35.0%",
+            "previewText": "35.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "35.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "35.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9697,
+            "name": "eatigo",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9697/ab0e12d0-c35a-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "eatigo",
+            "categories": [
+                2,
+                17,
+                10,
+                75,
+                71
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})eatigo\\.com\/th\/?",
+            "displayText": "รับเงินคืน 40 บาท",
+            "previewText": "40 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "40",
+                "modifier": "=",
+                "sign": "$",
+                "description": "40 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9700,
+            "name": "Apple Online Store",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9700/8c810d00-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "apple-online-store",
+            "categories": [
+                5,
+                3,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.apple\\.com\/th\/?",
+            "displayText": "รับเงินคืน 1%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9702,
+            "name": "Grab",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9702/8c7db1a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "grab",
+            "categories": [
+                12,
+                85,
+                10,
+                73,
+                75,
+                71
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9712,
+            "name": "Konvy Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9712/8c706b30-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "konvy-visa",
+            "categories": [
+                1,
+                15,
+                13,
+                14
+            ],
+            "urlPattern": "Konvy",
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9713,
+            "name": "Sephora Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9713/8c6fa7e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "sephora-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9714,
+            "name": "Shopat24 Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9714/8c6e4850-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "shopat24-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9474,
+            "name": "AliExpress Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9474/6f96e8e2-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "aliexpress-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 10.0%",
+            "previewText": "10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9715,
+            "name": "BigC Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9715/8c643630-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "bigc-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 1.5%",
+            "previewText": "1.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9475,
+            "name": "Hotels.com Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9475/6f96e8e3-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "hotels-com-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9516,
+            "name": "ASOS Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9516/8b2ffbf0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "asos-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9517,
+            "name": "HappyFresh Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9517/8b302300-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "happyfresh-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9518,
+            "name": "Nike Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9518/8b302301-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "nike-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9520,
+            "name": "Central Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9520/8b304a10-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "central-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 12.0%",
+            "previewText": "<12.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "12.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<12.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9522,
+            "name": "Expedia Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9522/3b162350-cee5-11e9-a964-c9823bb3c5b5.jpeg",
+            "shortname": "expedia-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "<7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9523,
+            "name": "Looksi",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9523/8b304a13-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "looksi",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9524,
+            "name": "Konvy Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9524/8b304a14-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "konvy-partner",
+            "categories": [],
+            "urlPattern": "konvy-linepay",
+            "displayText": "รับเงินคืน 10.0%",
+            "previewText": "10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9527,
+            "name": "Pomelo Fashion Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9527/8e9a9e30-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "pomelo-linepay",
+            "categories": [],
+            "urlPattern": "Pomelo-linepay",
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "<8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9530,
+            "name": "Pomelo Fashion Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9530/8e8c1f41-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "pomelo-fashion-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0%",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9531,
+            "name": "Looksi Visa",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9531/8e8c1f40-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "looksi-visa",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 15.0%",
+            "previewText": "<15.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "15.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<15.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9476,
+            "name": "Agoda",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9476/6f96e8e4-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "agoda",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                76,
+                83,
+                77,
+                81,
+                78
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|secure\\.|my\\.)agoda\\.com\/?",
+            "displayText": "khù khù khẹc khẹc 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "รับเงินคืน 6.0%",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9533,
+            "name": "honestbee",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9533/8e87d980-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "honestbee",
+            "categories": [
+                2,
+                6
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(honestbee\\.co\\.th).*$",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9534,
+            "name": "Tops",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9534/c6c0b560-c26e-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "tops",
+            "categories": [
+                6,
+                32,
+                31,
+                33,
+                34,
+                30,
+                35,
+                29,
+                28,
+                2,
+                16
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(tops\\.co\\.th).*$",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9477,
+            "name": "Eloop",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9477/01904fe0-d375-11e9-b6f4-c1127fcc35ab.png",
+            "shortname": "eloop",
+            "categories": [
+                1,
+                14,
+                3,
+                18,
+                20,
+                21
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 2.5%",
+            "previewText": "<2.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.5",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<2.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9535,
+            "name": "FOREO",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9535/721481e0-c93f-11e9-85d1-bfe2bc287222.png",
+            "shortname": "foreo",
+            "categories": [
+                7
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.foreo\\.com\/?",
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9539,
+            "name": "Kinokuniya",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9539/8e70f620-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "kinokuniya",
+            "categories": [
+                8
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(kinokuniya\\.com).*$",
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9540,
+            "name": "WeMall",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9540/8e6de8e0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "wemall",
+            "categories": [
+                3,
+                7,
+                4,
+                11,
+                8,
+                10,
+                1
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9541,
+            "name": "Expedia Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9541/8e69ca30-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "expedia-partner",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 12.0%",
+            "previewText": "<12.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "12.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<12.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9478,
+            "name": "Booking.com Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9478/6f970ff1-b2b0-11e9-b31f-c9de26774f3e.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 11.0%",
+            "previewText": "<11.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "11.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<11.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9542,
+            "name": "Shopat24 partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9542/8e69a320-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "<6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9543,
+            "name": "Eatigo Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9543/8e692df0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 80 บาท",
+            "previewText": "80บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "80",
+                "modifier": "=",
+                "sign": "$",
+                "description": "80บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9554,
+            "name": "Frank Insurance",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9554/8e3ee9a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "frank",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.frank\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 10.0%",
+            "previewText": "< 10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9555,
+            "name": "GoWabi",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9555/22a5b570-cad9-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "gowabi",
+            "categories": [
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*gowabi\\.com\/th\/?",
+            "displayText": "รับเงินคืน 3.0%",
+            "previewText": "3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9557,
+            "name": "OfficeMate",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9557/8e3a07a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "officemate",
+            "categories": [
+                3,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|eprocurement\\.)officemate\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 5.0%",
+            "previewText": "< 5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9560,
+            "name": "Accorhotels.com Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9560/8e2c4c00-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9561,
+            "name": "Air France Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9561/8e298ce0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9562,
+            "name": "Virgin Atlantic Partner",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9562/8e27b820-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9566,
+            "name": "Amazon JP",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9566/8e1e9060-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "amazonjp",
+            "categories": [
+                11,
+                5,
+                8,
+                6,
+                1,
+                3,
+                9,
+                10
+            ],
+            "urlPattern": "([\\w\\d]+)?\\.(amazon\\.co\\.jp).*$",
+            "displayText": "รับเงินคืนสูงสุด 1.0%",
+            "previewText": "<1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9568,
+            "name": "MSIG",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9568/8e19fc80-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "msig-online",
+            "categories": [
+                12,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.msig-thai\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 6.0%",
+            "previewText": "< 6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9569,
+            "name": "hisgo",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9569/8e17d9a0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "hisgo",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})th\\.hisgo\\.com\/?",
+            "displayText": "รับเงินคืน 0.8%",
+            "previewText": "<0.8%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.8",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<0.8%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9480,
+            "name": "Shopee",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9480/6f970ff3-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "shopee",
+            "categories": [
+                5,
+                8,
+                6,
+                32,
+                7,
+                38,
+                40,
+                37,
+                41,
+                36,
+                45,
+                44,
+                43,
+                46,
+                39,
+                42,
+                47,
+                3,
+                18,
+                19,
+                20,
+                21,
+                4,
+                22,
+                23,
+                9,
+                10
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9571,
+            "name": "Mercular",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9571/d19a6570-c3be-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "mercular",
+            "categories": [
+                3,
+                18,
+                19,
+                20,
+                21
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*mercular\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9579,
+            "name": "Mistine",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9579/8dfa1870-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "mistine",
+            "categories": [
+                7
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*ningnongmistine\\.com\/?",
+            "displayText": "รับเงินคืน 4.50%",
+            "previewText": "4.50%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.50",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.50%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9717,
+            "name": "CheapTickets TH",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9717/8c6065a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "cheapticketsth",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*cheaptickets\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 100 บาท",
+            "previewText": "100 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "100",
+                "modifier": "=",
+                "sign": "$",
+                "description": "100 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9481,
+            "name": "Klook",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9481/700d2a51-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "klook",
+            "categories": [
+                12,
+                89,
+                84,
+                86,
+                93
+            ],
+            "urlPattern": "([\\w\\d]+\\.)?(klook\\.com).*$",
+            "displayText": "รับเงินคืนสูงสุด 4%",
+            "previewText": "<4%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<4%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9719,
+            "name": "HotelQuickly.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9719/8c5c6e00-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "hotelquickly-com",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9720,
+            "name": "Airpaz",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9720/8c5a9940-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "airpaz",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|booking\\.)airpaz\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 1.0%",
+            "previewText": "<1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9721,
+            "name": "Rakuten Global Market",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9721/8c5987d1-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "rakuten-global",
+            "categories": [
+                11,
+                5,
+                8,
+                6,
+                1,
+                7,
+                3,
+                4,
+                9,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})global\\.rakuten\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9722,
+            "name": "Power Buy",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9722/d867c3b0-c35b-11e9-85d1-bfe2bc287222.png",
+            "shortname": "powerbuy",
+            "categories": [
+                3,
+                18,
+                19,
+                20,
+                21,
+                8,
+                54,
+                58,
+                51
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.powerbuy\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 5.0%",
+            "previewText": "< 5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9482,
+            "name": "LINE MAN",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9482/700d2a50-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "lineman",
+            "categories": [
+                2,
+                16,
+                6
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 15 บาท",
+            "previewText": "15 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "15",
+                "modifier": "=",
+                "sign": "$",
+                "description": "15 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9725,
+            "name": "KKday",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9725/8c4c8f80-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "kkday",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*kkday\\.com\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9726,
+            "name": "Supersports",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9726/78445530-c7ab-11e9-85d1-bfe2bc287222.png",
+            "shortname": "supersports08-14",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                76,
+                83,
+                77,
+                81,
+                78,
+                4,
+                22,
+                23,
+                10,
+                73
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:en\\.|www\\.)supersports\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 8.0%",
+            "previewText": "8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9727,
+            "name": "foodpanda",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9727/8c4626e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "foodpanda",
+            "categories": [
+                2,
+                16,
+                6,
+                33,
+                29
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.foodpanda\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "< 8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9483,
+            "name": "Comico (iOS)",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9483/700c6700-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "comico",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9500,
+            "name": "JD Central",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9500/6f9ba3d0-b2b0-11e9-b31f-c9de26774f3e.jpeg",
+            "shortname": "jd-central",
+            "categories": [
+                3,
+                8,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*jd\\.co\\.th\/?",
+            "displayText": "รับเงินคืนสูงสุด 4.0%",
+            "previewText": "< 4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9768,
+            "name": "Hostelworld",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9768/8bc277f0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "hostelworld08-11",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.hostelworld\\.com\/?",
+            "displayText": "รับเงินคืน 25.0% (ของมัดจำ)",
+            "previewText": "25.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "25.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "25.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9769,
+            "name": "Anello",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9769/8bc1b4a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "anello",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*anello\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 4.5%",
+            "previewText": "4.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9775,
+            "name": "Trip.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9775/7135fd50-c550-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "trip-com-test",
+            "categories": [
+                12,
+                92,
+                87,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "< 6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9484,
+            "name": "LINE MAN Dtac",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9484/6ffcfdb0-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "lineman-dtac",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 15 บาท",
+            "previewText": "15 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "15",
+                "modifier": "=",
+                "sign": "$",
+                "description": "15 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9777,
+            "name": "foodpanda Dtac",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9777/8baa8320-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9778,
+            "name": "HappyFresh Dtac",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9778/8ba971b0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9779,
+            "name": "eatigo Dtac",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9779/8ba8ae60-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 50 บาท",
+            "previewText": "50 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "50",
+                "modifier": "=",
+                "sign": "$",
+                "description": "50 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9780,
+            "name": "Tops Dtac",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9780/8ba83930-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9781,
+            "name": "Munkong Gadget",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9781/8ba6d9a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "munkonggadget",
+            "categories": [
+                3
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*munkonggadget\\.com\/?",
+            "displayText": "รับเงินคืน 0.50%",
+            "previewText": "0.50%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.50",
+                "modifier": "=",
+                "sign": "%",
+                "description": "0.50%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9782,
+            "name": "Motherhood",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9782/8ba5ef40-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "motherhood",
+            "categories": [
+                6,
+                7,
+                9,
+                10
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*motherhood\\.co\\.th\/?",
+            "displayText": "รับเงินคืน 5.50%",
+            "previewText": "5.50%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.50",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.50%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9783,
+            "name": "Nok Air",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9783/8ba18270-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "nok-air",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|content\\.)nokair\\.com\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9485,
+            "name": "Agoda Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9485/6ffc6170-b2b0-11e9-b31f-c9de26774f3e.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9486,
+            "name": "Booking.com Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9486/6ff7a680-b2b0-11e9-b31f-c9de26774f3e.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 7.0%",
+            "previewText": "7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9786,
+            "name": "Expedia Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9786/8b9378b0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "expedia-krungsri",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "<7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9487,
+            "name": "Hotels.com Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9487/6ff3aee0-b2b0-11e9-b31f-c9de26774f3e.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9787,
+            "name": "Qatar Airways Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9787/8b917ce0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9788,
+            "name": "Emirates Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9788/8b909280-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9789,
+            "name": "Cheap Tickets Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9789/8b8c25b0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9790,
+            "name": "MSIG Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9790/8b8b6260-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9488,
+            "name": "Klook Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9488/6ff27660-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "klook-krungsri",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9791,
+            "name": "Etihad Airways Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9791/8b8ac620-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9792,
+            "name": "Jetstar Krungsri",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9792/8b8a9f10-b364-11e9-acd9-972b3f3d0ef2.png",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9793,
+            "name": "HotelsCombined",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9793/8b81c570-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "hotels-combined",
+            "categories": [
+                12,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.hotelscombined\\.com\/?",
+            "displayText": "รับเงินคืน 100 บาท",
+            "previewText": "100 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "100",
+                "modifier": "=",
+                "sign": "$",
+                "description": "100 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9794,
+            "name": "Agoda Android",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9794/a27d2e10-cfaf-11e9-a964-c9823bb3c5b5.jpeg",
+            "shortname": "agoda",
+            "categories": [
+                11,
+                82,
+                80,
+                79,
+                76,
+                83,
+                77,
+                81,
+                78,
+                5,
+                24,
+                27,
+                25,
+                26
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9795,
+            "name": "topvalue",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9795/8b7b5cd0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "topvalue",
+            "categories": [
+                3,
+                18,
+                19,
+                20,
+                21,
+                10,
+                5
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*topvalue\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 6.5%",
+            "previewText": "< 6.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.5",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 6.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9796,
+            "name": "Ticketmelon",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9796/8b7a2450-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ticketmelon",
+            "categories": [
+                10,
+                73,
+                75,
+                71,
+                74
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.ticketmelon\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "< 8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9797,
+            "name": "King Power",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9797/8b77da60-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "kingpower",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*kingpower\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9798,
+            "name": "Play House",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9798/8b7653c1-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "playhouseth",
+            "categories": [
+                9,
+                61,
+                69,
+                10,
+                73
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*playhouseth\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "< 7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9799,
+            "name": "SHEIN",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9799/8b7653c0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "shein",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})th\\.shein\\.com\/?",
+            "displayText": "รับเงินคืน 8.0%",
+            "previewText": "8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9800,
+            "name": "Air Malta",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9800/8b73e2c0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "air-malta",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.airmalta\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9801,
+            "name": "Best Western Hotels",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9801/8b714ab0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "best-western",
+            "categories": [
+                12,
+                88
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*bestwestern\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9802,
+            "name": "Banggood",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9802/8b6fc410-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "banggood",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:www\\.|sea\\.)banggood\\.com\/?",
+            "displayText": "รับเงินคืน 0 บาท",
+            "previewText": "0 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0",
+                "modifier": "=",
+                "sign": "$",
+                "description": "0 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9803,
+            "name": "Kiwi.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9803/8b6c41a0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "kiwi",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*kiwi\\.com\/?",
+            "displayText": "รับเงินคืน 2.0%",
+            "previewText": "2.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "2.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "2.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9804,
+            "name": "Asia Books",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9804/8b611e10-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "asia-books",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88,
+                10,
+                70
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*asiabooks\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 3.0%",
+            "previewText": "< 3.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "3.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 3.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9489,
+            "name": "Shopee NC Deals",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9489/6ff0efc0-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "thaisuperphone",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9490,
+            "name": "Shopee Exclusive Deals",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9490/6fdb9300-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "shopee-deeplink1",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9491,
+            "name": "Shopee Durex",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9491/6fd52a60-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "seagull",
+            "categories": [
+                4,
+                22,
+                23
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 13.0% เมื่อช้อปผ่านแอป",
+            "previewText": "<13.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "13.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<13.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9492,
+            "name": "Shopee - Treeview",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9492/6fd2b960-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "treeview",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9493,
+            "name": "Shopee Gift for You",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9493/6fd0e4a0-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "shopee-gift-for-you",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9805,
+            "name": "Udemy",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9805/8b5cd850-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "udemy",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*udemy\\.com\/?",
+            "displayText": "รับเงินคืน 10.0%",
+            "previewText": "10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9806,
+            "name": "Coursera",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9806/8b5a8e60-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "coursera",
+            "categories": [
+                10,
+                73,
+                70
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*coursera\\.org\/?",
+            "displayText": "รับเงินคืนสูงสุด 40.0%",
+            "previewText": "< 40.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "40.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 40.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9494,
+            "name": "Shopee for MEN",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9494/6fcf36f1-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "shopee-for-men-2018",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 10.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "<10.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "10.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<10.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9808,
+            "name": "Rentalcars.com",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9808/8b57a830-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "rentalcars",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*rentalcars\\.com\/?",
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9809,
+            "name": "Enfagrow",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9809/8b5648a0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "enfagrow",
+            "categories": [
+                6,
+                9
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9810,
+            "name": "TIP Insure",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9810/8b551022-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "tipinsure",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*tipinsure\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "< 8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9811,
+            "name": "Pazzion",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9811/8b551021-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "pazzion",
+            "categories": [
+                4,
+                23
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.pazzion\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 7.0%",
+            "previewText": "< 7.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "7.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 7.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9812,
+            "name": "Singapore Airlines",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9812/8b551020-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "singapore-airlines",
+            "categories": [
+                12
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 0.5%",
+            "previewText": "0.5%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "0.5",
+                "modifier": "=",
+                "sign": "%",
+                "description": "0.5%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9731,
+            "name": "hp",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9731/bbeb7950-cd2b-11e9-8213-59e92aa08253.png",
+            "shortname": "hp",
+            "categories": [
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})store\\.hp\\.com\/th\/?",
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9732,
+            "name": "ezbuy",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9732/8c38b960-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "ezbuy",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 8.0%",
+            "previewText": "<8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "<8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9733,
+            "name": "Thai Airways",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9733/8c37a7f0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "thai-airways",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืน 1%",
+            "previewText": "1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9734,
+            "name": "Bangkok Airways",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9734/8c366f70-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "bangkok-airways",
+            "categories": [
+                12,
+                87
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืน 1%",
+            "previewText": "1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9735,
+            "name": "Thai Lion Air",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9735/8c313f50-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "thai-lion-air",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืน 1%",
+            "previewText": "1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9736,
+            "name": "AirAsia",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9736/e777cad0-d39b-11e9-88c2-fd6686586716.png",
+            "shortname": "airasia",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืน 5%",
+            "previewText": "รับเงินคืน 1%",
+            "oldDisplayText": "รับเงินคืน 20%",
+            "oldPreviewText": "รับเงินคืน 30%",
+            "originalCashback": {
+                "amount": "30",
+                "modifier": "=",
+                "sign": "%",
+                "description": "รับเงินคืน 30%"
+            },
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "รับเงินคืน 1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9737,
+            "name": "Nok Scoot",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9737/8c2bc110-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "nok-scoot",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืนสูงสุด 1%",
+            "previewText": "1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9738,
+            "name": "Jetstar Asia",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9738/8c2642d0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "jetstar-asia",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืน 1%",
+            "previewText": "1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9739,
+            "name": "Cathay Pacific",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9739/8c23d1d0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "cathay-pacific",
+            "categories": [
+                12
+            ],
+            "urlPattern": "^(?:(http|https):[\/]{2})(?:th\\.|www\\.)trip\\.com\/?",
+            "displayText": "รับเงินคืน 1%",
+            "previewText": "1%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9495,
+            "name": "LINE MAN Taxi",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9495/6fcf36f0-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "lineman-taxi",
+            "categories": [
+                5,
+                12,
+                6,
+                2,
+                10
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 15 บาท",
+            "previewText": "15 บาท",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "15",
+                "modifier": "=",
+                "sign": "$",
+                "description": "15 บาท"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9740,
+            "name": "Hertz",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9740/8c2160d0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "hertz",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9741,
+            "name": "AVIS",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9741/8c209d81-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "avis09-09",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9742,
+            "name": "Europcar",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9742/8c209d80-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "europcar",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9743,
+            "name": "Alamo",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9743/8c192370-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "alamo",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9744,
+            "name": "SIXT",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9744/8c18fc60-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "sixt",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9745,
+            "name": "Budget",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9745/8c0eea40-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "budget",
+            "categories": [
+                12,
+                85
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 6.0%",
+            "previewText": "6.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "6.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "6.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9746,
+            "name": "สมบัติทัวร์",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9746/8c0d3c90-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "sombat-tour",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9747,
+            "name": "Centara Hotels & Resorts",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9747/8c091de0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "centara-hotels",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2})www\\.centarahotelsresorts\\.com\/?",
+            "displayText": "รับเงินคืน 5.0%",
+            "previewText": "5.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "5.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "5.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9748,
+            "name": "แอร์อุบล",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9748/8c06fb00-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "air-ubon",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9749,
+            "name": "บางกอก บัสไลน์",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9749/8bfc73b0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "bangkok-busline",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9750,
+            "name": "อีสานทัวร์",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9750/8bf74390-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "esan-tour",
+            "categories": [
+                2,
+                17,
+                16
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9751,
+            "name": "สยาม เฟิร์ส ทัวร์",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9751/8bf324e0-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "siam-first-tour",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9752,
+            "name": "สวัสดี อีสาน",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9752/8bf21370-b364-11e9-acd9-972b3f3d0ef2.png",
+            "shortname": "sawasdee-esan",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืน 4.0%",
+            "previewText": "4.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "4.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "4.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9497,
+            "name": "Lazada Exclusive Vouchers",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9497/6fcc02a0-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "lazada-deeplink2",
+            "categories": [
+                12,
+                90,
+                89,
+                84,
+                92,
+                86,
+                91,
+                94,
+                85,
+                87,
+                93,
+                88
+            ],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 8.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "< 8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9498,
+            "name": "Lazada - L'Oreal",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9498/6fc68460-b2b0-11e9-b31f-c9de26774f3e.png",
+            "shortname": "lazada-deeplink3",
+            "categories": [],
+            "urlPattern": null,
+            "displayText": "รับเงินคืนสูงสุด 8.0% เมื่อช้อปผ่านแอพ",
+            "previewText": "< 8.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "8.0",
+                "modifier": "<",
+                "sign": "%",
+                "description": "< 8.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        },
+        {
+            "id": 9767,
+            "name": "24 Catalog",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9767/8bc44cb0-b364-11e9-acd9-972b3f3d0ef2.jpg",
+            "shortname": "24-catalog08-11",
+            "categories": [],
+            "urlPattern": "^(?:(http|https):[\/]{2}).*24catalog\\.com\/?",
+            "displayText": "รับเงินคืน 1.0%",
+            "previewText": "1.0%",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": "1.0",
+                "modifier": "=",
+                "sign": "%",
+                "description": "1.0%"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9831,
+            "name": "Foody",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9831/c0e6e1f0-c93f-11e9-8870-bfbf24eb8f42.png",
+            "shortname": "foody",
+            "categories": [
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55
+            ],
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9842,
+            "name": "William Mobile1 Test",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9842/0cbd7480-d04e-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "william-test1",
+            "categories": [
+                2,
+                17,
+                16
+            ],
+            "urlPattern": "url pattern",
+            "displayText": "Temporary Unavailable",
+            "previewText": "Temporary Unavailable",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": "Temporary Unavailable"
+            },
+            "isSpecialStore": false,
+            "isSearchable": true
+        },
+        {
+            "id": 9843,
+            "name": "William Mobile2 Test",
+            "logoUrl": "https://cloud.shopback.com/t_sd_250_pad/store-service-staging-th/assets/9843/319373f0-d057-11e9-a964-c9823bb3c5b5.png",
+            "shortname": "william-test2",
+            "categories": [
+                8,
+                52,
+                56,
+                53,
+                57,
+                54,
+                49,
+                58,
+                51,
+                59,
+                50,
+                55
+            ],
+            "urlPattern": "https://steam(.*)",
+            "displayText": "",
+            "previewText": "",
+            "oldDisplayText": "",
+            "oldPreviewText": "",
+            "originalCashback": null,
+            "cashback": {
+                "amount": null,
+                "modifier": "=",
+                "sign": "$",
+                "description": ""
+            },
+            "isSpecialStore": false,
+            "isSearchable": false
+        }
+    ]
+}

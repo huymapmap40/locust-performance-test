@@ -1,0 +1,14 @@
+master:
+  config:
+    target-host: http://customer-service.staging-sg.svc.cluster.local
+worker:
+  config:
+    locust-script: "/locust-tasks/test_customer-service.py"
+  replicaCount: 10
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi

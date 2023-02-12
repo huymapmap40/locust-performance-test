@@ -1,0 +1,22 @@
+master:
+  config:
+    target-host: http://gateway-staging.shopback.ph
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_store-service.py"
+  replicaCount: 20
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi

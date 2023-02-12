@@ -1,0 +1,66 @@
+diff --git a/scripts/local_start.sh b/scripts/local_start.sh
+index e9d8241..4d2e92e 100755
+--- a/scripts/local_start.sh
++++ b/scripts/local_start.sh
+@@ -13,4 +13,4 @@ readonly TEST_SCRIPT="${args[1]}"
+ 
+ echo "Target Host: ${TARGET_HOST}"
+ echo "Test Script: ${TEST_SCRIPT}.py"
+-docker run --rm -it -v "$PWD"/tasks:/locust-tasks -e "LOCUST_HOST=http://${TARGET_HOST}" -e "LOCUST_LOCUSTFILE=/locust-tasks/${TEST_SCRIPT}.py" -p 8089:8089 locustio/locust:1.2.3
++docker run --rm -it -v "$PWD"/tasks/orca:/locust-tasks -e "TARGET_URL=http://${TARGET_HOST}" -e "LOCUSTFILE_PATH=/locust-tasks/${TEST_SCRIPT}.py" -p 8089:8089 locustio/locust:0.12.1
+diff --git a/templates/master-deploy.yaml b/templates/master-deploy.yaml
+index b7c8656..2dd09bf 100644
+--- a/templates/master-deploy.yaml
++++ b/templates/master-deploy.yaml
+@@ -52,11 +52,11 @@ spec:
+         - name: {{ $key | upper | replace "-" "_" }}
+           value: {{ $value | quote }}
+         {{- end }}
+-        - name: LOCUST_MODE_MASTER
+-          value: "true"
+-        - name: LOCUST_LOCUSTFILE
++        - name: LOCUST_MODE
++          value: "master"
++        - name: LOCUSTFILE_PATH
+           value: {{ index .Values.worker.config "locust-script" | quote }}
+-        - name: LOCUST_HOST
++        - name: TARGET_URL
+           value: {{ index .Values.master.config "target-host" | quote }}
+         - name: REDIS_HOST
+           value: {{ .Release.Name }}-redis
+diff --git a/templates/worker-deploy.yaml b/templates/worker-deploy.yaml
+index d8c9f3b..0257ec9 100644
+--- a/templates/worker-deploy.yaml
++++ b/templates/worker-deploy.yaml
+@@ -54,13 +54,13 @@ spec:
+         - name: {{ $key | upper | replace "-" "_" }}
+           value: {{ $value | quote }}
+         {{- end }}
+-        - name: LOCUST_MODE_WORKER
+-          value: "true"
+-        - name: LOCUST_MASTER_NODE_HOST
++        - name: LOCUST_MODE
++          value: "slave"
++        - name: LOCUST_MASTER_HOST
+           value: {{ .Release.Name }}
+-        - name: LOCUST_LOCUSTFILE
++        - name: LOCUSTFILE_PATH
+           value: {{ index .Values.worker.config "locust-script" | quote }}
+-        - name: LOCUST_HOST
++        - name: TARGET_URL
+           value: {{ index .Values.master.config "target-host" | quote }}
+         - name: REDIS_HOST
+           value: {{ .Release.Name }}-redis
+diff --git a/values.yaml b/values.yaml
+index cd569e0..ab8ba11 100755
+--- a/values.yaml
++++ b/values.yaml
+@@ -4,7 +4,7 @@ tasksRoot: "tasks"
+ 
+ image:
+   repository: locustio/locust
+-  tag: 1.2.3
++  tag: 0.12.1
+   pullPolicy: IfNotPresent
+   pullSecrets:
+   - name: dockerhub

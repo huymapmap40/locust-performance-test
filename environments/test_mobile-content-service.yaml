@@ -1,0 +1,23 @@
+master:
+  config:
+    target-host: http://mobile-content-service.staging-sg.svc.cluster.local
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_mobile-content-service.py"
+  replicaCount: 150
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 500m
+      memory: 512Mi
+

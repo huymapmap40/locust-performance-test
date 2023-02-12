@@ -1,0 +1,38 @@
+master:
+  config:
+    target-host: http://ecommerce-graphql-service.staging-sg 
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+worker:
+  config:
+    locust-script: '/locust-tasks/test_ecommerce-graphql.py'
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1028Mi
+    requests:
+      cpu: 1000m
+      memory: 1028Mi
+  replicaCount: 50
+  hpa:
+    minReplicas: 50
+    maxReplicas: 50
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+redis:
+  enabled: true

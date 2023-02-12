@@ -1,0 +1,31 @@
+tasksRoot: "tasks/prod-load-test"
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: nginx-internal
+  hosts:
+    - locust-load-test-20211111.internal.prod-sg.svc.shopback.com
+master:
+  config:
+    target-host: https://sinch.prod-sg.svc.shopback.com
+    #target-host: https://api-app.shopback.sg
+worker:
+  config:
+    locust-script: "/locust-tasks/test_load_test_20211111-prod-sg.py"
+    #locust-script: "/locust-tasks/test_load_test_202188-staging-sg.py"
+  replicaCount: 1
+  resources:
+    limits:
+      cpu: 2500m
+      memory: 2048Mi
+    requests:
+      cpu: 2500m
+      memory: 2048Mi
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi

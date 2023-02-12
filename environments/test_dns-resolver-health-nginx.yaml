@@ -1,0 +1,36 @@
+service:
+  type: ClusterIP
+  externalPort: 80
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: nginx-internal
+  hosts:
+    - locust-dns-resolver-nginx.internal.prod-common.svc.shopback.com
+
+master:
+  config:
+    target-host: http://dns-resolver.nginx-ingress.svc.cluster.local
+worker:
+  config:
+    locust-script: "/locust-tasks/test_dns-resolver-health.py"
+  replicaCount: 3
+  # resources:
+  #   limits:
+  #     cpu: 100m
+  #     memory: 128Mi
+  #   requests:
+  #     cpu: 100m
+  #     memory: 128Mi
+  hpa:
+    minReplicas: 3
+    maxReplicas: 3
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70

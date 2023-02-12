@@ -1,0 +1,22 @@
+master:
+  config:
+    target-host: http://experiment-platform-service.staging-au.svc.cluster.local
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_experiment-platform-feature-flag-service.py"
+  replicaCount: 80
+  resources:
+    limits:
+      cpu: 500m
+      memory: 1000Mi
+    requests:
+      cpu: 500m
+      memory: 1000Mi

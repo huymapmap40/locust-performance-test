@@ -1,0 +1,39 @@
+tasksRoot: 'tasks/sbpay'
+master:
+  config:
+    target-host: http://sbpay-service.staging-sg.svc.cluster.local
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+worker:
+  config:
+    locust-script: '/locust-tasks/test_sbpay-pay-later.py'
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 1000m
+      memory: 250Mi
+  replicaCount: 1
+  hpa:
+    minReplicas: 1
+    maxReplicas: 100
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+redis:
+  enabled: true

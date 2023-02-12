@@ -1,0 +1,39 @@
+tasksRoot: "tasks/pos-integration"
+master:
+  config:
+    target-host: http://pos-integration-service.development.svc.cluster.local # direct traffic to pos
+  command: ["sh", "-c", "pip install redis; sleep 2; locust"]
+worker:
+  config:
+    locust-script: "/locust-tasks/test_pos-integration.py"
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1028Mi
+    requests:
+      cpu: 1000m
+      memory: 1028Mi
+  replicaCount: 10
+  hpa:
+    minReplicas: 5
+    maxReplicas: 20
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+  command: ["sh", "-c", "pip install redis; sleep 2; locust"]
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+redis:
+  enabled: true

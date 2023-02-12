@@ -1,0 +1,23 @@
+tasksRoot: "tasks/content-system"
+master:
+  config:
+    target-host: http://content-system.staging-tw
+  resources:
+    limits:
+      cpu: 500m
+      memory: 1500Mi
+    requests:
+      cpu: 200m
+      memory: 1000Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_content-system_personalized-layouts.py"
+  replicaCount: 100
+  resources:
+    limits:
+      cpu: 800m
+      memory: 1200Mi
+    requests:
+      cpu: 500m
+      memory: 800Mi

@@ -1,0 +1,44 @@
+tasksRoot: "tasks/poseidon"
+master:
+  config:
+    target-host: http://extension-service.staging-sg.svc.cluster.local
+  resources:
+    limits:
+      cpu: 250m
+      memory: 256Mi
+    requests:
+      cpu: 100m
+      memory: 128Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_extension-service.py"
+  replicaCount: 2
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 50m
+      memory: 64Mi
+
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+
+extraEnvs:
+  - name: SHOPBACK_USER_TOKEN
+    valueFrom:
+      secretKeyRef:
+        name: locust-secrets
+        key: user.token
+  - name: SHOPBACK_API_KEY_SECRET_CONSUMER
+    valueFrom:
+      secretKeyRef:
+        name: locust-secrets
+        key: api.key.consumer

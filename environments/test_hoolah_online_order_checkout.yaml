@@ -1,0 +1,27 @@
+tasksRoot: 'tasks/hoolah'
+master:
+  config:
+    target-host: uat
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+worker:
+  config:
+    locust-script: '/locust-tasks/test_hoolah_online_order_checkout.py'
+  resources:
+    limits:
+      cpu: 2000m
+      memory: 4096Mi
+    requests:
+      cpu: 2000m
+      memory: 4096Mi
+  replicaCount: 20
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+redis:
+  enabled: true

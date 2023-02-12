@@ -1,0 +1,32 @@
+tasksRoot: "tasks/seabass"
+master:
+  config:
+    target-host: http://westeros-fragments-cashback.production-th.svc.cluster.local
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 500m
+      memory: 128Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_cashback-service.py"
+  replicaCount: 60
+  resources:
+    limits:
+      cpu: 2000m
+      memory: 1280Mi
+    requests:
+      cpu: 1000m
+      memory: 640Mi
+
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi

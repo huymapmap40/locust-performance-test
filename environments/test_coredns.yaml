@@ -1,0 +1,26 @@
+master:
+  config:
+    target-host: http://dns-resolver
+worker:
+  config:
+    locust-script: "/locust-tasks/test_coredns.py"
+  replicaCount: 5
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: dns-resolver
+spec:
+  ports:
+  - port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    app: dns-resolver

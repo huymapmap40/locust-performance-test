@@ -1,0 +1,39 @@
+tasksRoot: 'tasks/payment-linked-offers'
+master:
+  config:
+    target-host: http://payment-linked-offers-service.staging-sg
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+worker:
+  config:
+    locust-script: '/locust-tasks/test_payment-linked-offers.py'
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1000Mi
+    requests:
+      cpu: 1000m
+      memory: 250Mi
+  replicaCount: 1
+  hpa:
+    minReplicas: 10
+    maxReplicas: 100
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+  command: ['sh', '-c', 'pip install redis; sleep 2; locust']
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+redis:
+  enabled: true

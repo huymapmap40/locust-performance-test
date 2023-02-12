@@ -1,0 +1,23 @@
+master:
+  config:
+    target-host: http://challenge-service.staging-sg.svc.cluster.local
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_challenge-service_redis.py"
+  replicaCount: 40
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi
+

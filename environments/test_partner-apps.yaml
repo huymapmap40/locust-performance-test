@@ -1,0 +1,7 @@
+master:
+  config:
+    target-host: http://1.50.46.57
+worker:
+  config:
+    locust-script: "/locust-tasks/test_partner-apps.py"
+  replicaCount: 2

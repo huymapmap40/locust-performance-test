@@ -1,0 +1,27 @@
+master:
+  config:
+    target-host: http://salmon.staging-tw.svc.cluster.local
+
+worker:
+  config:
+    locust-script: '/locust-tasks/test_salmon-web-shoppingtrip.py'
+  replicaCount: 10
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1000Mi
+    requests:
+      cpu: 1000m
+      memory: 1000Mi
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: salmon
+spec:
+  ports:
+    - port: 80
+      protocol: TCP
+      targetPort: 80
+  selector:
+    app: salmon

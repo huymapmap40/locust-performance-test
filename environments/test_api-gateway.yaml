@@ -1,0 +1,41 @@
+tasksRoot: "tasks/hades"
+master:
+  config:
+    target-host: http://api-gateway.staging-ph.svc.cluster.local
+  resources:
+    limits:
+      cpu: 250m
+      memory: 256Mi
+    requests:
+      cpu: 200m
+      memory: 128Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_api-gateway.py"
+  replicaCount: 3
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 800Mi
+    requests:
+      cpu: 800m
+      memory: 500Mi
+  hpa:
+    minReplicas: 15
+    maxReplicas: 20
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+extraEnvs:
+  - name: SHOPBACK_API_KEY_SECRET_CONSUMER
+    valueFrom:
+      secretKeyRef:
+        name: api-key
+        key: api.key.consumer

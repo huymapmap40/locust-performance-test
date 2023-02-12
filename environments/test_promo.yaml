@@ -1,0 +1,38 @@
+master:
+  config:
+    target-host: http://promo-platform-service.sb-dep-dev-team-vouchers.svc.cluster.local
+  command: ["sh", "-c", "pip install redis; sleep 2; locust"]
+worker:
+  config:
+    locust-script: "/locust-tasks/test_promo.py"
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1028Mi
+    requests:
+      cpu: 1000m
+      memory: 1028Mi
+  replicaCount: 200
+  hpa:
+    minReplicas: 200
+    maxReplicas: 200
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+  command: ["sh", "-c", "pip install redis; sleep 2; locust"]
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi
+redis:
+  enabled: true

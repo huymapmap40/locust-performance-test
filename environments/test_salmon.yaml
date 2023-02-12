@@ -1,0 +1,7 @@
+master:
+  config:
+    target-host: http://gateway.shopback.com.au
+worker:
+  config:
+    locust-script: "/locust-tasks/test_salmon.py"
+  replicaCount: 3

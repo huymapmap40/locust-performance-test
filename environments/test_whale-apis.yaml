@@ -1,0 +1,32 @@
+tasksRoot: "tasks/poseidon"
+master:
+  config:
+    target-host: http://whale-apis.staging-tw.svc.cluster.local
+  resources:
+    limits:
+      cpu: 250m
+      memory: 256Mi
+    requests:
+      cpu: 100m
+      memory: 128Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_whale-apis.py"
+  replicaCount: 5
+  resources:
+    limits:
+      cpu: 150m
+      memory: 128Mi
+    requests:
+      cpu: 50m
+      memory: 64Mi
+
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi

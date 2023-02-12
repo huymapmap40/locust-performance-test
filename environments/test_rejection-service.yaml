@@ -1,0 +1,19 @@
+master:
+  config:
+    target-host: http://rejection-service.development.svc.cluster.local
+worker:
+  config:
+    locust-script: "/locust-tasks/test_rejection-service.py"
+  replicaCount: 1
+  hpa:
+    minReplicas: 1
+    maxReplicas: 1
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70

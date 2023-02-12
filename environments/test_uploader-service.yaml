@@ -1,0 +1,14 @@
+master:
+  config:
+    target-host: http://uploader-service.development.svc.cluster.local
+worker:
+  config:
+    locust-script: "/locust-tasks/test_uploader-service.py"
+  replicaCount: 1
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi

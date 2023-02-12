@@ -1,0 +1,37 @@
+{
+  "ENV_VARS": {
+    "dev": {
+      "domain": "www.shopback.sg",
+      "accounts": {
+        "pattern": "shopback.loadtest2020_user{index}@shopback.com",
+        "min_index": 1,
+        "max_index": 999,
+        "min_old_id": 4694809,
+        "max_old_id": 4695858,
+        "password": "abcd1234"
+      }
+    },
+    "staging-sg": {
+      "domain": "www.shopback.sg",
+      "accounts": {
+        "pattern": "1111load+test{index}@shopback.com",
+        "min_index": 1,
+        "max_index": 15000,
+        "min_old_id": 5196882,
+        "max_old_id": 5213054,
+        "password": "loadtest1111"
+      }
+    },
+    "staging-tw": {
+      "domain": "www.shopback.com.tw",
+      "accounts": {
+        "pattern": "1111load+test{index}@shopback.com",
+        "min_index": 1,
+        "max_index": 1500,
+        "min_old_id": 501599328,
+        "max_old_id": 501600827,
+        "password": "Abcd1234"
+      }
+    }
+  }
+}

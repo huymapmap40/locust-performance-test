@@ -1,0 +1,15 @@
+tasksRoot: "tasks/brew520"
+master:
+  config:
+    target-host: http://internal-staging-au-orca-es7-1191401129.ap-southeast-1.elb.amazonaws.com:9200/au-raw-product-data-loadtest
+worker:
+  config:
+    locust-script: "/locust-tasks/test_entry.py"
+  replicaCount: 10
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 1024Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi

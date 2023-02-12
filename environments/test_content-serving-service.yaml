@@ -1,0 +1,23 @@
+tasksRoot: "tasks/content-serving-service"
+master:
+  config:
+    target-host: http://content-serving-service.staging-tw.svc.cluster.local
+  resources:
+    limits:
+      cpu: 500m
+      memory: 1500Mi
+    requests:
+      cpu: 200m
+      memory: 1000Mi
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_content-serving-service.py"
+  replicaCount: 1
+  resources:
+    limits:
+      cpu: 800m
+      memory: 1200Mi
+    requests:
+      cpu: 200m
+      memory: 600Mi

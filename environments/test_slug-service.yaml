@@ -1,0 +1,17 @@
+tasksRoot: "tasks/slug-service"
+
+master:
+  config:
+    target-host: http://slug-service.staging-sg.svc.cluster.local
+
+worker:
+  config:
+    locust-script: '/locust-tasks/test_slug-service.py'
+  replicaCount: 60
+  resources:
+    limits:
+      cpu: 200m
+      memory: 200Mi
+    requests:
+      cpu: 100m
+      memory: 100Mi

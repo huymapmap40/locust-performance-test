@@ -1,0 +1,26 @@
+master:
+  config:
+    target-host: http://DEV-api-gateway-1299021562.ap-southeast-1.elb.amazonaws.com
+worker:
+  config:
+    locust-script: "/locust-tasks/test_jorah-service.py"
+  replicaCount: 3
+  resources:
+    limits:
+      cpu: 1000m
+      memory: 512Mi
+    requests:
+      cpu: 500m
+      memory: 256Mi
+  # hpa:
+  #   minReplicas: 3
+  #   maxReplicas: 10
+  #   metrics:
+  #     - type: Resource
+  #       resource:
+  #         name: cpu
+  #         targetAverageUtilization: 70
+  #     - type: Resource
+  #       resource:
+  #         name: memory
+  #         targetAverageUtilization: 70

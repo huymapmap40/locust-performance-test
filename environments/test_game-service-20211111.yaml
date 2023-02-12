@@ -1,0 +1,23 @@
+tasksRoot: "tasks/game-service"
+master:
+  config:
+    target-host: http://game-service
+  resources:
+    limits:
+      cpu: 1500m
+      memory: 2048Mi
+    requests:
+      cpu: 1000m
+      memory: 1024Mi
+      
+worker:
+  config:
+    locust-script: "/locust-tasks/test_game-service-20211111.py"
+  replicaCount: 100
+  resources:
+    limits:
+      cpu: 500m
+      memory: 1000Mi
+    requests:
+      cpu: 500m
+      memory: 1000Mi

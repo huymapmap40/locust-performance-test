@@ -1,0 +1,17 @@
+tasksRoot: 'tasks/ata'
+
+master:
+  config:
+    target-host: http://redirect-service.staging-sg.svc.cluster.local
+
+worker:
+  config:
+    locust-script: '/locust-tasks/test_redirect-service.py'
+  replicaCount: 30
+  resources:
+    limits:
+      cpu: 200m
+      memory: 200Mi
+    requests:
+      cpu: 100m
+      memory: 100Mi

@@ -1,0 +1,34 @@
+master:
+  config:
+    target-host: http://referral-service.staging-sg.svc.cluster.local
+worker:
+  config:
+    locust-script: "/locust-tasks/test_referral-service.py"
+  resources:
+    limits:
+      cpu: 300m
+      memory: 256Mi
+    requests:
+      cpu: 300m
+      memory: 256Mi
+  replicaCount: 100
+  hpa:
+    minReplicas: 50
+    maxReplicas: 50
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+initContainers:
+  resources:
+    limits:
+      cpu: 50m
+      memory: 64Mi
+    requests:
+      cpu: 25m
+      memory: 32Mi

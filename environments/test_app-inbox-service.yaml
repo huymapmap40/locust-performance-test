@@ -1,0 +1,15 @@
+master:
+  config:
+    target-host: http://app-inbox-service.staging-id.svc.cluster.local
+
+worker:
+  config:
+    locust-script: "/locust-tasks/test_app-inbox-service.py"
+  replicaCount: 10
+  resources:
+    limits:
+      cpu: 400m
+      memory: 500Mi
+    requests:
+      cpu: 200m
+      memory: 200Mi

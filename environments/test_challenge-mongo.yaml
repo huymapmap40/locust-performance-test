@@ -1,0 +1,19 @@
+master:
+  command: ["sh", "-c", "pip install pymongo; sleep 2; locust"]
+worker:
+  config:
+    locust-script: "/locust-tasks/test_challenge-mongo.py"
+  replicaCount: 125
+  hpa:
+    minReplicas: 125
+    maxReplicas: 125
+    metrics:
+      - type: Resource
+        resource:
+          name: cpu
+          targetAverageUtilization: 70
+      - type: Resource
+        resource:
+          name: memory
+          targetAverageUtilization: 70
+  command: ["sh", "-c", "pip install pymongo; sleep 2; locust"]

@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+.vscode/
+venv/
+.RELEASE_NAME
+.DS_Store
+tasks/
